@@ -29,14 +29,14 @@ lib.ssMetadata = [
 
 
 (lib._1cbk = function() {
-	this.initialize(ss["design2_atlas_14"]);
+	this.initialize(ss["design2_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1cdb = function() {
-	this.initialize(ss["design2_atlas_12"]);
+	this.initialize(ss["design2_atlas_13"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -50,7 +50,7 @@ lib.ssMetadata = [
 
 
 (lib._1clb = function() {
-	this.initialize(ss["design2_atlas_13"]);
+	this.initialize(ss["design2_atlas_14"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -154,14 +154,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,1391,943);
 
 
 (lib._3mbk = function() {
-	this.initialize(ss["design2_atlas_7"]);
+	this.initialize(ss["design2_atlas_11"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mdb = function() {
-	this.initialize(ss["design2_atlas_8"]);
+	this.initialize(ss["design2_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -175,21 +175,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,1391,943);
 
 
 (lib._3mlb = function() {
-	this.initialize(ss["design2_atlas_9"]);
+	this.initialize(ss["design2_atlas_8"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mr = function() {
-	this.initialize(ss["design2_atlas_10"]);
+	this.initialize(ss["design2_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mw = function() {
-	this.initialize(ss["design2_atlas_11"]);
+	this.initialize(ss["design2_atlas_10"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
